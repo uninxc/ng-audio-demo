@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { PlyrModule } from 'ngx-plyr';
 
 @Component({
   selector: 'app-root',
